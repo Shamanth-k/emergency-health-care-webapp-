@@ -78,11 +78,9 @@ npm install
 # Create a .env.local file with:
 # MONGO_URI=<your_mongodb_uri>
 
-go to Api folder and in all the sub folder open route folders and add your mongodb connection string in the place of your mongodb url
+#go to Api folder and in all the sub folder open route folders and add your mongodb connection string in the place of your mongodb url
 npm run dev
 ```
-
-
 
 The website will start on `http://localhost:3000`
 
@@ -109,9 +107,4 @@ The website will start on `http://localhost:3000`
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
 
----
-
-Would you like me to include deployment instructions (e.g., Render, Vercel, Railway), or setup a logo/banner for your README too?
-```
