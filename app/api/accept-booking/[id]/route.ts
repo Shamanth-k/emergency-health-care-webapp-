@@ -1,7 +1,7 @@
 import { type NextRequest, NextResponse } from "next/server";
 import { MongoClient, ObjectId } from "mongodb";
 
-const MONGODB_URI = "ur monogdb url";
+const MONGODB_URI = "MONGODB_URI"; // Replace with your MongoDB URI
 const DB_NAME = "lifeline";
 
 export async function POST(
